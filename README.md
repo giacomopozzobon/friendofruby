@@ -1,24 +1,12 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, my name is Giacomo. 
 
-Things you may want to cover:
+This is my first app in Ruby On Rails. 
 
-* Ruby version
+Friends List App
+___________________________
 
-* System dependencies
+* Rails version 7.0.3 | Ruby version 3.2.1
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Best Regards.

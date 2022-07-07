@@ -1,0 +1,13 @@
+<tr id="<%= dom_id friend %>">
+  
+    <td><%= friend.id %></td>
+    <td><%= link_to friend.first_name+' '+friend.last_name, friend %></td>
+    <td><%= friend.email %></td>
+    <td><%= friend.phone %></td>
+    <td><%= friend.twitter %></td>
+    <td><%= friend.created_at %></td>
+    <td><%= friend.updated_at %></td>
+    <td><%= link_to 'Delete', friend, data: {turbo_method: :delete, turbo_confirm: "Are you sure?"}, class:"btn btn-outline-danger btn-sm" %></td>
+
+</tr>
+

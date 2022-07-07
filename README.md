@@ -9,6 +9,6 @@ ___________________________
 
 * Rails version 7.0.3 | Ruby version 3.2.1
 
-* Deployed on Heroku, at: 
+* Deployed on Heroku, at: https://rubynotfriends.herokuapp.com/
 
 Best Regards.

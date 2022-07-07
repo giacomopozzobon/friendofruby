@@ -11,4 +11,5 @@ ___________________________
 
 * Deployed on Heroku, at: https://rubynotfriends.herokuapp.com/
 
+Hope you have fun,
 Best Regards.

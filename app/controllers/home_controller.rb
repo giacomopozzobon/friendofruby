@@ -7,7 +7,7 @@ class HomeController < ApplicationController
     if user_signed_in? 
       @about_me = "My name is Giacomo Pozzobon..."
     else
-      @about_me = "Fuck u, you are not logged. Login to find out who I am."
+      @about_me = "Yo, you are not logged. Login to test me."
     end
 
     about = "This variable works only local"
